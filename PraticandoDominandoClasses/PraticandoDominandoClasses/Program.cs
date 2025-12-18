@@ -35,19 +35,32 @@ Console.WriteLine(artista1.Resumo);*/
 
 /******************************** AULA: 2 - EXERCICIO: 1 ********************************/
 
-using PraticandoDominandoClasses.PetShop;
+//using PraticandoDominandoClasses.PetShop;
 
-List<Consulta> ConsultasMarcadas = new();
+//List<Consulta> ConsultasMarcadas = new();
 
-Dono dono = new Dono("Filipe");
-Pet pet = new Pet("Rex", 5, "Pastor Alemão");
-Medico medico = new Medico("Dr. Carlos");
-DateTime dataConsulta = new DateTime(2024, 7, 15, 14, 30, 0);
+//Dono dono = new Dono("Filipe");
+//Pet pet = new Pet("Rex", 5, "Pastor Alemão");
+//Medico medico = new Medico("Dr. Carlos");
+//DateTime dataConsulta = new DateTime(2024, 7, 15, 14, 30, 0);
 
-ConsultasMarcadas.Add(new Consulta(dono, pet, medico, dataConsulta));
+//ConsultasMarcadas.Add(new Consulta(dono, pet, medico, dataConsulta));
 
-Console.WriteLine("Consultas marcadas");
-foreach (Consulta consulta in ConsultasMarcadas)
-{
-    consulta.ExibirDetalhesConsulta();
-}
+//Console.WriteLine("Consultas marcadas");
+//foreach (Consulta consulta in ConsultasMarcadas)
+//{
+//    consulta.ExibirDetalhesConsulta();
+//}
+
+
+/******************************** AULA: 3 - EXERCICIO: 1 ********************************/
+
+//using PraticandoDominandoClasses.FormasGeometricas;
+
+//FormaGeometrica triangulo = new Triangulo() { Base = 3, Altura = 4 };
+//FormaGeometrica quadrado = new Quadrado() { Base = 5, Altura = 5 };
+//FormaGeometrica circulo = new Circulo() { Raio = 6 };
+
+//triangulo.CalcularArea();
+//quadrado.CalcularArea();
+//circulo.CalcularArea();

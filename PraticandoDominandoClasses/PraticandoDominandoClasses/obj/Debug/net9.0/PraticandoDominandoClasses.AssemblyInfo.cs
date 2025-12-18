@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PraticandoDominandoClasses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8ceadbb98d02dd5a94c98a37311751fa0af0fcc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57091d0ed66fe1f3c2cafeadc6af8d34a7b197a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("PraticandoDominandoClasses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PraticandoDominandoClasses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

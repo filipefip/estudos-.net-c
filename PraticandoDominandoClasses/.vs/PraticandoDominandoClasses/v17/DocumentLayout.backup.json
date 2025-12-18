@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{DF39ABED-E05E-4D18-BC6D-46FE1FC9058C}|PraticandoDominandoClasses\\PraticandoDominandoClasses.csproj|c:\\users\\filip\\desktop\\cursos\\alura\\carreiras\\.net e c#\\praticandodominandoclasses\\praticandodominandoclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF39ABED-E05E-4D18-BC6D-46FE1FC9058C}|PraticandoDominandoClasses\\PraticandoDominandoClasses.csproj|solutionrelative:praticandodominandoclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF39ABED-E05E-4D18-BC6D-46FE1FC9058C}|PraticandoDominandoClasses\\PraticandoDominandoClasses.csproj|c:\\users\\filip\\desktop\\cursos\\alura\\carreiras\\.net e c#\\praticandodominandoclasses\\praticandodominandoclasses\\petshop\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF39ABED-E05E-4D18-BC6D-46FE1FC9058C}|PraticandoDominandoClasses\\PraticandoDominandoClasses.csproj|solutionrelative:praticandodominandoclasses\\petshop\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF39ABED-E05E-4D18-BC6D-46FE1FC9058C}|PraticandoDominandoClasses\\PraticandoDominandoClasses.csproj|c:\\users\\filip\\desktop\\cursos\\alura\\carreiras\\.net e c#\\praticandodominandoclasses\\praticandodominandoclasses\\petshop\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF39ABED-E05E-4D18-BC6D-46FE1FC9058C}|PraticandoDominandoClasses\\PraticandoDominandoClasses.csproj|solutionrelative:praticandodominandoclasses\\petshop\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF39ABED-E05E-4D18-BC6D-46FE1FC9058C}|PraticandoDominandoClasses\\PraticandoDominandoClasses.csproj|c:\\users\\filip\\desktop\\cursos\\alura\\carreiras\\.net e c#\\praticandodominandoclasses\\praticandodominandoclasses\\petshop\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF39ABED-E05E-4D18-BC6D-46FE1FC9058C}|PraticandoDominandoClasses\\PraticandoDominandoClasses.csproj|solutionrelative:praticandodominandoclasses\\petshop\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF39ABED-E05E-4D18-BC6D-46FE1FC9058C}|PraticandoDominandoClasses\\PraticandoDominandoClasses.csproj|c:\\users\\filip\\desktop\\cursos\\alura\\carreiras\\.net e c#\\praticandodominandoclasses\\praticandodominandoclasses\\petshop\\dono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF39ABED-E05E-4D18-BC6D-46FE1FC9058C}|PraticandoDominandoClasses\\PraticandoDominandoClasses.csproj|solutionrelative:praticandodominandoclasses\\petshop\\dono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,12 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,9 +40,66 @@
               "RelativeDocumentMoniker": "PraticandoDominandoClasses\\Program.cs",
               "ToolTip": "C:\\Users\\filip\\Desktop\\Cursos\\Alura\\Carreiras\\.NET e C#\\PraticandoDominandoClasses\\PraticandoDominandoClasses\\Program.cs",
               "RelativeToolTip": "PraticandoDominandoClasses\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T15:22:03.154Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\Cursos\\Alura\\Carreiras\\.NET e C#\\PraticandoDominandoClasses\\PraticandoDominandoClasses\\PetShop\\Pet.cs",
+              "RelativeDocumentMoniker": "PraticandoDominandoClasses\\PetShop\\Pet.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\Cursos\\Alura\\Carreiras\\.NET e C#\\PraticandoDominandoClasses\\PraticandoDominandoClasses\\PetShop\\Pet.cs",
+              "RelativeToolTip": "PraticandoDominandoClasses\\PetShop\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T17:05:32.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\Cursos\\Alura\\Carreiras\\.NET e C#\\PraticandoDominandoClasses\\PraticandoDominandoClasses\\PetShop\\Medico.cs",
+              "RelativeDocumentMoniker": "PraticandoDominandoClasses\\PetShop\\Medico.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\Cursos\\Alura\\Carreiras\\.NET e C#\\PraticandoDominandoClasses\\PraticandoDominandoClasses\\PetShop\\Medico.cs",
+              "RelativeToolTip": "PraticandoDominandoClasses\\PetShop\\Medico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T17:08:01.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\Cursos\\Alura\\Carreiras\\.NET e C#\\PraticandoDominandoClasses\\PraticandoDominandoClasses\\PetShop\\Consulta.cs",
+              "RelativeDocumentMoniker": "PraticandoDominandoClasses\\PetShop\\Consulta.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\Cursos\\Alura\\Carreiras\\.NET e C#\\PraticandoDominandoClasses\\PraticandoDominandoClasses\\PetShop\\Consulta.cs",
+              "RelativeToolTip": "PraticandoDominandoClasses\\PetShop\\Consulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T17:07:33.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dono.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\Cursos\\Alura\\Carreiras\\.NET e C#\\PraticandoDominandoClasses\\PraticandoDominandoClasses\\PetShop\\Dono.cs",
+              "RelativeDocumentMoniker": "PraticandoDominandoClasses\\PetShop\\Dono.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\Cursos\\Alura\\Carreiras\\.NET e C#\\PraticandoDominandoClasses\\PraticandoDominandoClasses\\PetShop\\Dono.cs",
+              "RelativeToolTip": "PraticandoDominandoClasses\\PetShop\\Dono.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T17:06:50.696Z",
               "EditorCaption": ""
             }
           ]
