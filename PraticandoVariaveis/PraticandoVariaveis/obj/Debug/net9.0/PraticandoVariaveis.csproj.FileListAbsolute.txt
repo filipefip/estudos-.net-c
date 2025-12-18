@@ -1,0 +1,14 @@
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoVariaveis\PraticandoVariaveis\bin\Debug\net9.0\PraticandoVariaveis.exe
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoVariaveis\PraticandoVariaveis\bin\Debug\net9.0\PraticandoVariaveis.deps.json
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoVariaveis\PraticandoVariaveis\bin\Debug\net9.0\PraticandoVariaveis.runtimeconfig.json
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoVariaveis\PraticandoVariaveis\bin\Debug\net9.0\PraticandoVariaveis.dll
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoVariaveis\PraticandoVariaveis\bin\Debug\net9.0\PraticandoVariaveis.pdb
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoVariaveis\PraticandoVariaveis\obj\Debug\net9.0\PraticandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoVariaveis\PraticandoVariaveis\obj\Debug\net9.0\PraticandoVariaveis.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoVariaveis\PraticandoVariaveis\obj\Debug\net9.0\PraticandoVariaveis.AssemblyInfo.cs
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoVariaveis\PraticandoVariaveis\obj\Debug\net9.0\PraticandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoVariaveis\PraticandoVariaveis\obj\Debug\net9.0\PraticandoVariaveis.dll
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoVariaveis\PraticandoVariaveis\obj\Debug\net9.0\refint\PraticandoVariaveis.dll
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoVariaveis\PraticandoVariaveis\obj\Debug\net9.0\PraticandoVariaveis.pdb
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoVariaveis\PraticandoVariaveis\obj\Debug\net9.0\PraticandoVariaveis.genruntimeconfig.cache
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoVariaveis\PraticandoVariaveis\obj\Debug\net9.0\ref\PraticandoVariaveis.dll

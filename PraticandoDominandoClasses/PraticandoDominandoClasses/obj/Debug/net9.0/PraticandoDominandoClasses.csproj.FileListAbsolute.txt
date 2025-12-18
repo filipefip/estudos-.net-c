@@ -1,0 +1,14 @@
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoDominandoClasses\PraticandoDominandoClasses\bin\Debug\net9.0\PraticandoDominandoClasses.exe
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoDominandoClasses\PraticandoDominandoClasses\bin\Debug\net9.0\PraticandoDominandoClasses.deps.json
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoDominandoClasses\PraticandoDominandoClasses\bin\Debug\net9.0\PraticandoDominandoClasses.runtimeconfig.json
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoDominandoClasses\PraticandoDominandoClasses\bin\Debug\net9.0\PraticandoDominandoClasses.dll
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoDominandoClasses\PraticandoDominandoClasses\bin\Debug\net9.0\PraticandoDominandoClasses.pdb
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoDominandoClasses\PraticandoDominandoClasses\obj\Debug\net9.0\PraticandoDominandoClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoDominandoClasses\PraticandoDominandoClasses\obj\Debug\net9.0\PraticandoDominandoClasses.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoDominandoClasses\PraticandoDominandoClasses\obj\Debug\net9.0\PraticandoDominandoClasses.AssemblyInfo.cs
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoDominandoClasses\PraticandoDominandoClasses\obj\Debug\net9.0\PraticandoDominandoClasses.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoDominandoClasses\PraticandoDominandoClasses\obj\Debug\net9.0\PraticandoDominandoClasses.dll
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoDominandoClasses\PraticandoDominandoClasses\obj\Debug\net9.0\refint\PraticandoDominandoClasses.dll
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoDominandoClasses\PraticandoDominandoClasses\obj\Debug\net9.0\PraticandoDominandoClasses.pdb
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoDominandoClasses\PraticandoDominandoClasses\obj\Debug\net9.0\PraticandoDominandoClasses.genruntimeconfig.cache
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoDominandoClasses\PraticandoDominandoClasses\obj\Debug\net9.0\ref\PraticandoDominandoClasses.dll

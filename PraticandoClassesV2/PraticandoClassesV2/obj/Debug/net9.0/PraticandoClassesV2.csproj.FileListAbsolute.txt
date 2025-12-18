@@ -1,0 +1,14 @@
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoClassesV2\PraticandoClassesV2\bin\Debug\net9.0\PraticandoClassesV2.exe
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoClassesV2\PraticandoClassesV2\bin\Debug\net9.0\PraticandoClassesV2.deps.json
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoClassesV2\PraticandoClassesV2\bin\Debug\net9.0\PraticandoClassesV2.runtimeconfig.json
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoClassesV2\PraticandoClassesV2\bin\Debug\net9.0\PraticandoClassesV2.dll
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoClassesV2\PraticandoClassesV2\bin\Debug\net9.0\PraticandoClassesV2.pdb
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoClassesV2\PraticandoClassesV2\obj\Debug\net9.0\PraticandoClassesV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoClassesV2\PraticandoClassesV2\obj\Debug\net9.0\PraticandoClassesV2.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoClassesV2\PraticandoClassesV2\obj\Debug\net9.0\PraticandoClassesV2.AssemblyInfo.cs
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoClassesV2\PraticandoClassesV2\obj\Debug\net9.0\PraticandoClassesV2.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoClassesV2\PraticandoClassesV2\obj\Debug\net9.0\PraticandoClassesV2.dll
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoClassesV2\PraticandoClassesV2\obj\Debug\net9.0\refint\PraticandoClassesV2.dll
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoClassesV2\PraticandoClassesV2\obj\Debug\net9.0\PraticandoClassesV2.pdb
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoClassesV2\PraticandoClassesV2\obj\Debug\net9.0\PraticandoClassesV2.genruntimeconfig.cache
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoClassesV2\PraticandoClassesV2\obj\Debug\net9.0\ref\PraticandoClassesV2.dll

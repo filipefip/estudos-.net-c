@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filip\\Desktop\\Cursos\\Alura\\Carreiras\\.NET e C#\\PraticandoClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75388065-3D63-40F1-BC66-E7222337411B}|PraticandoClasses\\PraticandoClasses.csproj|c:\\users\\filip\\desktop\\cursos\\alura\\carreiras\\.net e c#\\praticandoclasses\\praticandoclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75388065-3D63-40F1-BC66-E7222337411B}|PraticandoClasses\\PraticandoClasses.csproj|solutionrelative:praticandoclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75388065-3D63-40F1-BC66-E7222337411B}|PraticandoClasses\\PraticandoClasses.csproj|c:\\users\\filip\\desktop\\cursos\\alura\\carreiras\\.net e c#\\praticandoclasses\\praticandoclasses\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75388065-3D63-40F1-BC66-E7222337411B}|PraticandoClasses\\PraticandoClasses.csproj|solutionrelative:praticandoclasses\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75388065-3D63-40F1-BC66-E7222337411B}|PraticandoClasses\\PraticandoClasses.csproj|c:\\users\\filip\\desktop\\cursos\\alura\\carreiras\\.net e c#\\praticandoclasses\\praticandoclasses\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75388065-3D63-40F1-BC66-E7222337411B}|PraticandoClasses\\PraticandoClasses.csproj|solutionrelative:praticandoclasses\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75388065-3D63-40F1-BC66-E7222337411B}|PraticandoClasses\\PraticandoClasses.csproj|c:\\users\\filip\\desktop\\cursos\\alura\\carreiras\\.net e c#\\praticandoclasses\\praticandoclasses\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75388065-3D63-40F1-BC66-E7222337411B}|PraticandoClasses\\PraticandoClasses.csproj|solutionrelative:praticandoclasses\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75388065-3D63-40F1-BC66-E7222337411B}|PraticandoClasses\\PraticandoClasses.csproj|c:\\users\\filip\\desktop\\cursos\\alura\\carreiras\\.net e c#\\praticandoclasses\\praticandoclasses\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75388065-3D63-40F1-BC66-E7222337411B}|PraticandoClasses\\PraticandoClasses.csproj|solutionrelative:praticandoclasses\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\Cursos\\Alura\\Carreiras\\.NET e C#\\PraticandoClasses\\PraticandoClasses\\Program.cs",
+              "RelativeDocumentMoniker": "PraticandoClasses\\Program.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\Cursos\\Alura\\Carreiras\\.NET e C#\\PraticandoClasses\\PraticandoClasses\\Program.cs",
+              "RelativeToolTip": "PraticandoClasses\\Program.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAwKsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T18:02:34.296Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\Cursos\\Alura\\Carreiras\\.NET e C#\\PraticandoClasses\\PraticandoClasses\\Order.cs",
+              "RelativeDocumentMoniker": "PraticandoClasses\\Order.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\Cursos\\Alura\\Carreiras\\.NET e C#\\PraticandoClasses\\PraticandoClasses\\Order.cs",
+              "RelativeToolTip": "PraticandoClasses\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T12:39:14.908Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\Cursos\\Alura\\Carreiras\\.NET e C#\\PraticandoClasses\\PraticandoClasses\\Menu.cs",
+              "RelativeDocumentMoniker": "PraticandoClasses\\Menu.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\Cursos\\Alura\\Carreiras\\.NET e C#\\PraticandoClasses\\PraticandoClasses\\Menu.cs",
+              "RelativeToolTip": "PraticandoClasses\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T12:38:55.12Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\Cursos\\Alura\\Carreiras\\.NET e C#\\PraticandoClasses\\PraticandoClasses\\Table.cs",
+              "RelativeDocumentMoniker": "PraticandoClasses\\Table.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\Cursos\\Alura\\Carreiras\\.NET e C#\\PraticandoClasses\\PraticandoClasses\\Table.cs",
+              "RelativeToolTip": "PraticandoClasses\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T12:39:06.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\Cursos\\Alura\\Carreiras\\.NET e C#\\PraticandoClasses\\PraticandoClasses\\Restaurant.cs",
+              "RelativeDocumentMoniker": "PraticandoClasses\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\Cursos\\Alura\\Carreiras\\.NET e C#\\PraticandoClasses\\PraticandoClasses\\Restaurant.cs",
+              "RelativeToolTip": "PraticandoClasses\\Restaurant.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwCkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T12:38:48.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

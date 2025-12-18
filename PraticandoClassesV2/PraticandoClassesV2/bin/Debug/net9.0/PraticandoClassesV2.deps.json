@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PraticandoClassesV2/1.0.0": {
+        "runtime": {
+          "PraticandoClassesV2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PraticandoClassesV2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
