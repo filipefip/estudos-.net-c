@@ -40,11 +40,14 @@
               "RelativeDocumentMoniker": "PraticandoDominandoClasses\\Program.cs",
               "ToolTip": "C:\\Users\\filip\\Desktop\\Cursos\\Alura\\Carreiras\\.NET e C#\\PraticandoDominandoClasses\\PraticandoDominandoClasses\\Program.cs",
               "RelativeToolTip": "PraticandoDominandoClasses\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwEEAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T15:22:03.154Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -56,8 +59,7 @@
               "RelativeToolTip": "PraticandoDominandoClasses\\FormasGeometricas\\Triangulo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T18:24:17.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T18:24:17.427Z"
             },
             {
               "$type": "Document",
@@ -69,8 +71,7 @@
               "RelativeToolTip": "PraticandoDominandoClasses\\FormasGeometricas\\Circulo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T18:23:52.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T18:23:52.203Z"
             },
             {
               "$type": "Document",
@@ -82,8 +83,7 @@
               "RelativeToolTip": "PraticandoDominandoClasses\\FormasGeometricas\\Quadrado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T18:23:25.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T18:23:25.769Z"
             },
             {
               "$type": "Document",
@@ -95,12 +95,7 @@
               "RelativeToolTip": "PraticandoDominandoClasses\\FormasGeometricas\\FormaGeometrica.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T18:23:02.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2025-12-18T18:23:02.171Z"
             }
           ]
         }
