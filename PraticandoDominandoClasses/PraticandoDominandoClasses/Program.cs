@@ -31,3 +31,23 @@ foreach (Filme filme in filmesFavoritos)
 }
 
 Console.WriteLine(artista1.Resumo);*/
+
+
+/******************************** AULA: 2 - EXERCICIO: 1 ********************************/
+
+using PraticandoDominandoClasses.PetShop;
+
+List<Consulta> ConsultasMarcadas = new();
+
+Dono dono = new Dono("Filipe");
+Pet pet = new Pet("Rex", 5, "Pastor Alemão");
+Medico medico = new Medico("Dr. Carlos");
+DateTime dataConsulta = new DateTime(2024, 7, 15, 14, 30, 0);
+
+ConsultasMarcadas.Add(new Consulta(dono, pet, medico, dataConsulta));
+
+Console.WriteLine("Consultas marcadas");
+foreach (Consulta consulta in ConsultasMarcadas)
+{
+    consulta.ExibirDetalhesConsulta();
+}

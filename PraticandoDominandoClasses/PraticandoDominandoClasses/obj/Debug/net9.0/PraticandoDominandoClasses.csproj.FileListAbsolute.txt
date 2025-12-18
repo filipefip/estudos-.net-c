@@ -12,3 +12,4 @@ C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoDominandoClass
 C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoDominandoClasses\PraticandoDominandoClasses\obj\Debug\net9.0\PraticandoDominandoClasses.pdb
 C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoDominandoClasses\PraticandoDominandoClasses\obj\Debug\net9.0\PraticandoDominandoClasses.genruntimeconfig.cache
 C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoDominandoClasses\PraticandoDominandoClasses\obj\Debug\net9.0\ref\PraticandoDominandoClasses.dll
+C:\Users\filip\Desktop\Cursos\Alura\Carreiras\.NET e C#\PraticandoDominandoClasses\PraticandoDominandoClasses\obj\Debug\net9.0\PraticandoDominandoClasses.sourcelink.json
