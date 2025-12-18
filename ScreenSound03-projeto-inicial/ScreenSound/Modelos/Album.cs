@@ -7,11 +7,13 @@ internal class Album
     public Album(string nome)
     {
         Nome = nome;
+        ContadorDeObjetos++;
     }
 
     public string Nome { get; }
     public int DuracaoTotal => musicas.Sum(m => m.Duracao);
     public List<Musica> Musicas => musicas;
+    public static int ContadorDeObjetos { get; set; } = 0;
 
     public void AdicionarMusica(Musica musica)
     {
@@ -26,5 +28,9 @@ internal class Album
             Console.WriteLine($"Música: {musica.Nome}");
         }
         Console.WriteLine($"\nPara ouvir este álbum inteiro você precisa de {DuracaoTotal}");
+    }
+    public static void ExibirContadorDeObjetos()
+    {
+        Console.WriteLine($"Total de álbuns criados: {ContadorDeObjetos}");
     }
 }
