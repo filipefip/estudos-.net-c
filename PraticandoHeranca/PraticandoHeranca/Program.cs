@@ -19,17 +19,45 @@ Idade, nível de fidelidade e código VIP em linhas separadas.
  
  */
 
-using PraticandoHeranca.Exercicio1;
+//using PraticandoHeranca.Exercicio1;
 
-ClienteVIP cliente1 = new ClienteVIP("Renata", 32, "Ouro", "VIP123A");
-ClienteVIP cliente2 = new ClienteVIP("Leonardo", 40, "Diamante", "VIP789X");
+//ClienteVIP cliente1 = new ClienteVIP("Renata", 32, "Ouro", "VIP123A");
+//ClienteVIP cliente2 = new ClienteVIP("Leonardo", 40, "Diamante", "VIP789X");
 
-Console.WriteLine($"Bem-vindo, cliente VIP: {cliente1.Nome}");
-Console.WriteLine($"Idade: {cliente1.Idade}");
-Console.WriteLine($"Nível de Fidelidade: {cliente1.NivelFidelidade}");
-Console.WriteLine($"Código VIP: {cliente1.CodigoVIP}\n");
+//Console.WriteLine($"Bem-vindo, cliente VIP: {cliente1.Nome}");
+//Console.WriteLine($"Idade: {cliente1.Idade}");
+//Console.WriteLine($"Nível de Fidelidade: {cliente1.NivelFidelidade}");
+//Console.WriteLine($"Código VIP: {cliente1.CodigoVIP}\n");
 
-Console.WriteLine($"Bem-vindo, cliente VIP: {cliente2.Nome}");
-Console.WriteLine($"Idade: {cliente2.Idade}");
-Console.WriteLine($"Nível de Fidelidade: {cliente2.NivelFidelidade}");
-Console.WriteLine($"Código VIP: {cliente2.CodigoVIP}\n");
+//Console.WriteLine($"Bem-vindo, cliente VIP: {cliente2.Nome}");
+//Console.WriteLine($"Idade: {cliente2.Idade}");
+//Console.WriteLine($"Nível de Fidelidade: {cliente2.NivelFidelidade}");
+//Console.WriteLine($"Código VIP: {cliente2.CodigoVIP}\n");
+
+
+
+/************************************* EXERCICIO 2 ************************************/
+
+/*
+ 
+Você está desenvolvendo um sistema interno para uma empresa que deseja organizar as informações de seus colaboradores. 
+A empresa possui funcionários fixos, que recebem salário mensal, e freelancers, que trabalham por projetos com valores específicos. 
+Seu desafio é criar uma estrutura que represente esses dois tipos de colaboradores, aproveitando os conceitos de herança para evitar repetição de código.
+
+Crie um programa que:
+
+Defina uma classe base Funcionario com os atributos Nome e Cargo.
+Crie uma classe filha Freelancer que herde de Funcionario e adicione o atributo ValorProjeto.
+Crie uma classe filha Interno que herde de Funcionario e adicione o atributo Salario.
+Instancie pelo menos um objeto de cada classe filha, atribuindo valores a cada atributo.
+Exiba as informações no terminal.
+ 
+ */
+
+//using PraticandoHeranca.Exercicio2;
+
+//Interno f1 = new Interno("Luciana", "Desenvolvedora", 7000.00m);
+//Freelancer f2 = new Freelancer("Carlos", "Designer", 3500.00m);
+
+//Console.WriteLine(f1);
+//Console.WriteLine(f2);
