@@ -230,10 +230,47 @@ Instancie um cliente para cada tipo de pagamento e chame o método ProcessarPaga
  
  */
 
-using PraticandoHeranca.Exercicio8;
+//using PraticandoHeranca.Exercicio8;
 
-PagamentoCredito cliente1 = new PagamentoCredito("André", "andre@email.com");
-PagamentoBoleto cliente2 = new PagamentoBoleto("Juliana", "juliana@email.com");
+//PagamentoCredito cliente1 = new PagamentoCredito("André", "andre@email.com");
+//PagamentoBoleto cliente2 = new PagamentoBoleto("Juliana", "juliana@email.com");
 
-cliente1.ProcessarPagamento();
-cliente2.ProcessarPagamento();
+//cliente1.ProcessarPagamento();
+//cliente2.ProcessarPagamento();
+
+
+
+/************************************* EXERCICIO 9 ************************************/
+
+/*
+ 
+Imagine que você está criando um sistema para uma empresa de tecnologia que oferece diferentes tipos de serviços (como manutenção ou consultoria). 
+Cada serviço tem um responsável técnico (funcionário), e cada tipo de serviço possui sua própria forma de executar a tarefa.
+
+O objetivo é garantir que todos os serviços possam ser executados de forma padronizada, mas com lógica específica. E, cada serviço deve conter um funcionário responsável.
+
+Seu desafio é combinar interface e composição para representar essa estrutura.
+
+Crie um programa que:
+
+Defina a interface IServico, com o método ExecutarServico().
+Crie a classe Funcionario, com os atributos Nome e Departamento.
+Crie as classes Manutencao e Consultoria, que implementam IServico.
+Em cada classe, associe um Funcionario por composição e implemente o método ExecutarServico() com:
+O tipo do serviço
+O título da tarefa
+E os dados do funcionário responsável.
+No Program.cs, instancie os serviços e chame o método ExecutarServico().
+
+ */
+
+using PraticandoHeranca.Exercicio9;
+
+Funcionario tecnico = new Funcionario("João", "TI");
+IServico s1 = new Manutencao("Atualização de servidor", tecnico);
+
+Funcionario analista = new Funcionario("Marina", "Consultoria");
+IServico s2 = new Consultoria("Planejamento estratégico", analista);
+
+s1.ExecutarServico();
+s2.ExecutarServico();
