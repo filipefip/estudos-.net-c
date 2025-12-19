@@ -264,13 +264,61 @@ No Program.cs, instancie os serviços e chame o método ExecutarServico().
 
  */
 
-using PraticandoHeranca.Exercicio9;
+//using PraticandoHeranca.Exercicio9;
 
-Funcionario tecnico = new Funcionario("João", "TI");
-IServico s1 = new Manutencao("Atualização de servidor", tecnico);
+//Funcionario tecnico = new Funcionario("João", "TI");
+//IServico s1 = new Manutencao("Atualização de servidor", tecnico);
 
-Funcionario analista = new Funcionario("Marina", "Consultoria");
-IServico s2 = new Consultoria("Planejamento estratégico", analista);
+//Funcionario analista = new Funcionario("Marina", "Consultoria");
+//IServico s2 = new Consultoria("Planejamento estratégico", analista);
 
-s1.ExecutarServico();
-s2.ExecutarServico();
+//s1.ExecutarServico();
+//s2.ExecutarServico();
+
+
+
+/************************************* EXERCICIO 10 ************************************/
+
+/*
+ 
+Imagine que você está desenvolvendo um sistema para uma plataforma de cursos online. 
+Existem diferentes tipos de cursos, como programação e design, e todos devem ser validados e publicados, com mensagens específicas para cada tipo.
+
+Além disso, cada curso tem um instrutor associado, com nome e área de especialidade. Seu desafio é criar um sistema usando interface única e composição.
+
+Crie um programa que:
+
+Crie uma interface ICurso, com os métodos:
+
+ValidarConteudo()
+PublicarCurso()
+Crie a classe Instrutor, com os atributos:
+
+Nome
+Especialidade
+Crie duas classes:
+
+CursoProgramacao e CursoDesign
+Ambas devem implementar ICurso e receber um Instrutor por composição
+Em cada classe, implemente os métodos com mensagens personalizadas.
+
+No Program.cs, instancie os cursos e chame os dois métodos:
+
+ValidarConteudo()
+PublicarCurso()
+ 
+ */
+
+using PraticandoHeranca.Exercicio10;
+
+Instrutor instrutor1 = new Instrutor("Carla", "Back-end");
+ICurso curso1 = new CursoProgramacao("C# com POO", instrutor1);
+
+Instrutor instrutor2 = new Instrutor("Felipe", "UI/UX");
+ICurso curso2 = new CursoDesign("Design de Interfaces", instrutor2);
+
+curso1.ValidarConteudo();
+curso1.PublicarCurso();
+
+curso2.ValidarConteudo();
+curso2.PublicarCurso();
