@@ -1,0 +1,13 @@
+﻿namespace PraticandoHeranca.Exercicio3;
+
+internal class Pessoa
+{
+    public string Nome { get; }
+    public int Idade { get; }
+
+    public Pessoa(string nome, int idade)
+    {
+        this.Nome = nome;
+        this.Idade = idade;
+    }
+}
