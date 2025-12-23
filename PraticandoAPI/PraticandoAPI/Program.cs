@@ -23,6 +23,15 @@ using (HttpClient client = new HttpClient())
         //{
         //    livro.ExibirDetalhesLivro();
         //}
+
+        //List<int> numeros = [5, 4, 5, 3, 1, 58, 7, 6, 2,5,5,6,4,8,1412,3,48,8,3,5,4,3,4,];
+        //var numerosUnicos = numeros.Distinct().ToList();
+        //foreach(int numero in numerosUnicos)
+        //{
+        //    Console.WriteLine(numero);
+        //}
+
+
     }
     catch (Exception ex)
     {
